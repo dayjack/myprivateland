@@ -1,0 +1,12 @@
+name: Myprivateland
+version: '${project.version}'
+main: dayjack.myprivateland.Myprivateland
+api-version: 1.19
+prefix: [ myprivateland ]
+authors: [ dayjack ]
+description: 사유지 설정 플러그인 입니다.
+website: https://github.com/dayjack
+
+commands:
+  privateland:
+    description: 사유지 설정 커맨드입니다. 관리자 전용
